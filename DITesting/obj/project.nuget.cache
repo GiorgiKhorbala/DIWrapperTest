@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ2EVqS3BC50kjB2eAY0cHjbMM8UC7xH3rkOGpRq8OLNq9h3sasi+JhKRZW0OG3ZKNlQ5Ydj2PC6BvYIa1q1IA==",
+  "success": true,
+  "projectFilePath": "/Users/giorgikhorbaladze/Projects/DITesting/DITesting/DITesting.csproj",
+  "expectedPackageFiles": [
+    "/Users/giorgikhorbaladze/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/giorgikhorbaladze/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/giorgikhorbaladze/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/giorgikhorbaladze/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "/Users/giorgikhorbaladze/.nuget/packages/simpleinjector/5.4.1/simpleinjector.5.4.1.nupkg.sha512",
+    "/Users/giorgikhorbaladze/.nuget/packages/system.componentmodel/4.0.1/system.componentmodel.4.0.1.nupkg.sha512",
+    "/Users/giorgikhorbaladze/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
